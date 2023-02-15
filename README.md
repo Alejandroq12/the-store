@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="../assets/images/logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>My first project</b></h3>
@@ -37,7 +37,7 @@
 
 # 📖 [Hello World!] <a name="about-project"></a>
 
-**[Hello World]** is a project to start getting used to using linters and GitHub Flow.
+**[Hello World is a project to start getting used to using linters and GitHub Flow.]** 
 
 ## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
@@ -57,7 +57,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[I am using this porject to test errors with Webhint]**
+- **[I am using this project to test errors with Webhint]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,9 +65,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> I will be available soon!
+> My website
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://alejandroq12.github.io/hello-world/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
