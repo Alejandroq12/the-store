@@ -43,8 +43,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -64,8 +62,6 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> My website
 
 - [Live Demo Link](https://alejandroq12.github.io/hello-world/)
 
@@ -113,8 +109,6 @@ To open the webpage you just need to open the index.html file on the browser.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Julio Quezada**
 
 - GitHub: [@Alejandroq12](https://github.com/Alejandroq12)
@@ -124,8 +118,6 @@ To open the webpage you just need to open the index.html file on the browser.
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[I will make this project a complete website]**
 
@@ -145,10 +137,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please give a star.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
