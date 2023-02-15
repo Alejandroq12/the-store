@@ -83,26 +83,36 @@ In order to run this project you need:
 
 ``
 A web browser 
-A code editor
-Node.js
-Npm
-``
-Run the following commands:
 
-``
-npm init -y
-npm install --save-dev hint@7.x
+A code editor
+
+Node.js
+
+npm
+
 ``
 
 ### Usage
 
-To run the project you just need to open the index.html file on the browser.
+
+Run the following commands:
+
+``
+npm init -y
+
+npm install --save-dev hint@7.x
+
+
+``
 
 To test errors: 
 ``
 npx hint .
 
 ``
+
+To open the webpage you just need to open the index.html file on the browser.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -111,9 +121,9 @@ npx hint .
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Julio Quezada**
 
-- GitHub: [@githubhandle](https://github.com/Alejandroq12)
+- GitHub: [@Alejandroq12](https://github.com/Alejandroq12)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +133,7 @@ npx hint .
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[I will make a complete webpage]**
+- [ ] **[I will make this project a complete website]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +162,7 @@ If you like this project please give a star.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
