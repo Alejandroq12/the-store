@@ -81,35 +81,29 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-``
+```
 A web browser 
-
 A code editor
-
 Node.js
-
 npm
-
-``
+```
 
 ### Usage
 
 
 Run the following commands:
 
-``
+```
 npm init -y
-
 npm install --save-dev hint@7.x
-
-
-``
+```
 
 To test errors: 
-``
+
+```
 npx hint .
 
-``
+```
 
 To open the webpage you just need to open the index.html file on the browser.
 
