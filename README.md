@@ -35,7 +35,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello World!] <a name="about-project"></a>
 
 **[Hello World]** is a project to start getting used to using linters and GitHub Flow.
 
@@ -49,11 +49,6 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://developer.mozilla.org/es/docs/Learn/HTML">HTML</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Client</summary>
-  <ul>
     <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
@@ -62,7 +57,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[It test errors]**
+- **[I am using this porject to test errors with Webhint]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> I will be available soon!
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
@@ -86,10 +81,28 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+``
+A web browser 
+A code editor
+Node.js
+Npm
+``
+Run the following commands:
+
+``
+npm init -y
+npm install --save-dev hint@7.x
+``
+
 ### Usage
 
 To run the project you just need to open the index.html file on the browser.
 
+To test errors: 
+``
+npx hint .
+
+``
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
