@@ -1,5 +1,8 @@
 import Navbar from "./components/Navbar";
 function App() {
-  return <h2>The Store</h2>;
+  return (
+    <main>
+      <Navbar />
+    </main>)
 }
 export default App;
