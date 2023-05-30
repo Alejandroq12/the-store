@@ -13,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[The Store\] ](#-the-store-)
+- [📖 The Store ](#-the-store-)
   - [🛠 Built With HTML and CSS](#-built-with-html-and-css)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [The Store] <a name="about-project"></a>
+# 📖 The Store <a name="about-project"></a>
 
 The Store is an e-commerce platform created with React.js + Redux Toolkit.
 
