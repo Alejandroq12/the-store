@@ -6,6 +6,9 @@ const Navbar = () => {
     <nav>
       <div className="nav-center">
         <h3>The Store</h3>
+        <div className="nav-container">
+          <CartIcon />
+        </div>
       </div>
     </nav>
   );
