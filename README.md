@@ -1,10 +1,10 @@
-<a name="readme-top">My first project.</a>
+<a name="readme-top">The Store.</a>
 
 <div align="center">
   <img src="./assets/images/logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>My first project</b></h3>
+  <h3><b>The Store</b></h3>
 
 </div>
 
@@ -12,31 +12,26 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[The Store\] ](#-the-store-)
+  - [🛠 Built With HTML and CSS](#-built-with-html-and-css)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Usage](#usage)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello World!] <a name="about-project"></a>
+# 📖 [The Store] <a name="about-project"></a>
 
-**[Hello World is a project to start getting used to using linters and GitHub Flow.]** 
+The Store is a e-commerce platform created with React.js + Redux Toolkit
 
 ## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
