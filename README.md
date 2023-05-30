@@ -17,11 +17,14 @@
   - [🛠 Built With HTML and CSS](#-built-with-html-and-css)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
     - [Usage](#usage)
-  - [👥 Authors ](#-authors-)
+    - [Run tests](#run-tests)
+    - [Deployment ](#deployment-)
+  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -31,7 +34,7 @@
 
 # 📖 [The Store] <a name="about-project"></a>
 
-The Store is a e-commerce platform created with React.js + Redux Toolkit
+The Store is an e-commerce platform created with React.js + Redux Toolkit.
 
 ## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
@@ -42,6 +45,9 @@ The Store is a e-commerce platform created with React.js + Redux Toolkit
   <ul>
     <li><a href="https://developer.mozilla.org/es/docs/Learn/HTML">HTML</a></li>
     <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+    <li><a href="https://react.dev/">React.js</a></li>
+    <li><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></li>
   </ul>
 </details>
 
@@ -49,21 +55,24 @@ The Store is a e-commerce platform created with React.js + Redux Toolkit
 
 ### Key Features <a name="key-features"></a>
 
-- **[I am using this project to test errors with Webhint]**
+- **A complete website that simulates an e-commerce platform.**
+- **Responsive design.**
+- **Correctly implemented Redux Toolkit**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+<!-- LIVE DEMO 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://alejandroq12.github.io/hello-world/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
 
 To get a local copy up and running, follow these steps.
 
@@ -71,41 +80,69 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- A web browser to view output e.g [Google Chrome](https://www.google.com/chrome/).
+- An IDE e.g [Visual studio code](https://code.visualstudio.com/).
+- `node` should be installed in your local machine, [node website](https://nodejs.org/en/download/).
+- Install the `npm` package manager use this [to install both node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+- [A terminal](https://code.visualstudio.com/docs/terminal/basics).
+
+### Setup
+
+Clone this repository to your desired folder or download the Zip folder:
+
 ```
-A web browser 
-A code editor
-Node.js
-npm
+https://github.com/Alejandroq12/the-store.git
+
+```
+
+- Navigate to the location of the folder in your machine:
+
+**``you@your-Pc-name:~$ cd the-store``**
+
+### Install
+
+To install all dependencies, run:
+
+```
+npm install
 ```
 
 ### Usage
 
+To run the project, follow these instructions:
 
-Run the following commands:
+- After cloning this repo to your local machine.
+- You must use `npm start` command in terminal to run this at the localhost.
 
+### Run tests
+
+To run tests, run the following command:
+
+- Track CSS linter errors run:
 ```
-npm init -y
-npm install --save-dev hint@7.x
+npx stylelint "**/*.{css,scss}"
 ```
-
-To test errors: 
-
+- Track JavaScript linter errors run:
 ```
-npx hint .
-
+npx eslint "**/*.{js,jsx}"
 ```
+### Deployment <a name="deployment"></a>
 
-To open the webpage you just need to open the index.html file on the browser.
+You can deploy this project using: Render,
+- I will use Render Pages to deploy my website.
+- For more information about deployment on Render see "[Netlify](https://render.com/)".
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Julio Quezada**
 
-- GitHub: [@Alejandroq12](https://github.com/Alejandroq12)
+- GitHub: [Alejandroq12](https://github.com/Alejandroq12)
+- Twitter: [@JulioAle54](https://twitter.com/JulioAle54)
+- LinkedIn: [Julio Quezada](https://www.linkedin.com/in/quezadajulio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
