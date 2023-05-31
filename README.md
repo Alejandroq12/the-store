@@ -150,7 +150,7 @@ You can deploy this project using: Render,
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[I will make this project a complete website]**
+- [ ] **[I will make this project a complete e-commerce website]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
