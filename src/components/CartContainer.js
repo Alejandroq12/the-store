@@ -11,6 +11,10 @@ const CartContainer = () => {
         </header>
     </section>;
   }
-  return <div>CartContainer</div>;
+  return <section className="cart">
+        <header>
+            
+        </header>
+  </section>;
 };
 export default CartContainer;
