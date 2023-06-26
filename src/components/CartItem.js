@@ -1,4 +1,5 @@
 import { ChevronDown, ChevronUp } from '../icons';
+import { removeItem } from '../features/cart/cartSlice';
 
 const CartItem = ({ id, img, title, price, amount }) => {
   return (
