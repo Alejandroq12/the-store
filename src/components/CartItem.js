@@ -3,6 +3,7 @@ import { removeItem } from '../features/cart/cartSlice';
 import {  useDispatch } from 'react-redux';
 
 const CartItem = ({ id, img, title, price, amount }) => {
+  const dispatch = useDispatch();
   return (
     <article className="cart-item">
       <img src={img} alt={title} />
